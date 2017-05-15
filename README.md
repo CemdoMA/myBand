@@ -1,1 +1,8 @@
-https://www.google.nl/
+myBand README
+---------------------
+
+INFORMATIE
+---------------------
+  Auteur: *Cem den Ouden*
+  Klas: *MD1A*
+  
