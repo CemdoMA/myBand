@@ -6,9 +6,8 @@ INFORMATIE
   Auteur: *Cem den Ouden*
   Klas: *MD1A*
   
-## Titel van jouw website
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+## The Walking Dead
+www.mijnliveomgeving.com is een website van Cem waar gebruikers kunnen zoeken naar info over The Walking Dead, bedoeld voor The Walking Dead fans.
 
 ### Uniek aan dit concept is: 
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
